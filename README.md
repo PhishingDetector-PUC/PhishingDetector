@@ -1,17 +1,20 @@
-# Nome do projeto
+# Phishing Detector
 
-Escreva um ou dois parágrafo resumindo o objetivo do seu projeto.
+O objetivo do projeto é possibilitar com que as pessoas possam se protejer, identificando e aprendendo, sobre os ataques de phishing e engenharia social que podem levar a prejuizos grandes para a vida de todods.
+A plataforma oferecerá espaços para checar a qualidade de sites, avaliar possibilidades de risco e aprender como se protejer de pessoas mal intencionadas de forma simples e que possa atender a todos.
 
 ## Alunos integrantes da equipe
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+* Alan Severiano Dias de Lima
+* Caio Henrique Maranhão Mastrorocco
+* David Felix Ferreira Cruz
+* Emmerson Rodrigues de Paula
+* Henrique Luiz Fontes da Silva
+* Karina Oliveira Bicalho de Almeida
 
 ## Professores responsáveis
 
-* Nome completo do professor 1
+* Pedro Felipe Alves de Oliveira
 
 
 ## Instruções de utilização
